@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450594756464",
+    "project_id": "fierbase-all-tutorial",
+    "storage_bucket": "fierbase-all-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450594756464:android:a9355dca5712f2c704a1b5",
+        "android_client_info": {
+          "package_name": "com.example.fierbase_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBav2qZMZP-UZfTGNx7JuNhn_SQXHrqZqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
